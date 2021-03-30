@@ -14,5 +14,5 @@
 - ⚡ Fun fact: I CODE
 - 📫 Reach me at https://shravanatirtha.com
 
-### Allright, let's catch up for a coffee! ☕
+### Alright, let's catch up for a coffee! ☕
 
