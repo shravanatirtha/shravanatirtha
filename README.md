@@ -6,7 +6,7 @@
 - ❤️ Eat - Sleep - Code Repeat
 - 👧 Pronouns: She/Her
 - 🍚 I'm a VEGAN GEEK
-- 💻 Yay, I’m a Java Progarmmer
+- 💻 Yay! I’m a Java Programmer
 - 🕸️ I like web, it's interesting ... isn't it?
 - 🔭 I’m currently working on MERN Stack
 - 👯 And I'm looking to collaborate on Web Projects
