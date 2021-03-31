@@ -7,12 +7,12 @@
  
  ## Facts about me:
  #### 👧 Pronouns: She/Her
- #### 🍚 I'm a VEGAN GEEK
-#### 💻 Yay! I’m a Java Programmer
+ #### 🍚 I'm a `VEGAN GEEK`
+#### 💻 Yay! I’m a `Java Programmer`
 #### 🕸️ I like web, it's interesting ... isn't it?
-#### 📜 I’m currently working on MERN Stack
+#### 📜 I’m currently working on `MERN Stack`
 #### 👯 And I'm looking to collaborate on Web Projects
 #### 💬 I'd love to talk about psychology and livestyle
 #### ⚡ Fun fact: I CODE
-#### ❤️ Favourite Quote : Eat - Sleep - Code - Repeat
+#### ❤️ Favourite Quote : `Eat - Sleep - Code - Repeat`
 #### 📫 Reach me at ping@shravanatirtha.com 
