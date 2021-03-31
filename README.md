@@ -16,6 +16,3 @@
 #### ⚡ Fun fact: I CODE
 #### ❤️ Favourite Quote : Eat - Sleep - Code - Repeat
 #### 📫 Reach me at ping@shravanatirtha.com 
-
-### Alright, let's catch up for a coffee! ☕
-
