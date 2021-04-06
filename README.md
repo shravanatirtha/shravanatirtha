@@ -1,5 +1,5 @@
 
-## Hey Geekster !
+## Hey Dev !
 ## I'm super excited that you visited me 😄
 
 ![image](https://user-images.githubusercontent.com/34398606/113096413-bba2b000-9212-11eb-81dd-7ba2bdb181f5.png)
