@@ -9,10 +9,13 @@
 #### 👧 Pronouns: She/Her
 #### 🍚 I'm a `Vegan Geek`
 #### 💻 Yay! I’m a `Java Programmer`
-#### 🕸️ I like web, it's interesting ... isn't it?
+#### 🔄 Routine : `Eat - Sleep - Code - Repeat`
+#### 😆 Fun fact: I CODE
+#### ❤️ I like web, it's interesting ... isn't it?
 #### 📜 I’m currently working on `MERN Stack`
 #### 👯 And I'm looking to collaborate on Web Projects
 #### 💬 I'd love to talk about psychology and livestyle
-#### ⚡ Fun fact: I CODE
-#### ❤️ Favourite Quote : `Eat - Sleep - Code - Repeat`
+#### 📝 Favourite Quote : `Either I could watch it happen or be a part of it!`
+#### ⚡ Belief : `There are only 10 people in the world, those who know binary and those who don't`
 #### 📫 Reach me at ping@shravanatirtha.com 
+
