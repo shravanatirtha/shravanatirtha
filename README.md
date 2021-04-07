@@ -17,5 +17,5 @@
 #### 💬 I'd love to talk about `psychology` and `livestyle`
 #### 📝 Favourite Quote : `Either I could watch it happen or be a part of it!`
 #### ⚡ Belief : `There are only 10 people in the world, those who know binary and those who don't`
-#### 📫 Reach me at `ping@shravanatirtha.com `
+#### 📫 Reach me at ping@shravanatirtha.com 
 
