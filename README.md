@@ -1,6 +1,5 @@
 
-## Hey Dev !
-## I'm super excited that you visited me 😄
+## Hey Dev! I'm super excited that you visited me 😄
 
 ## Facts about me:
 #### 👧 Pronouns: `She/Her`
