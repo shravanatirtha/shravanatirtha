@@ -8,9 +8,9 @@
 #### 🔄 Routine : `Eat - Sleep - Code - Repeat`
 #### 😆 Fun fact: `I CODE`
 #### ❤️ I like `Web`, it's interesting ... isn't it?
-#### 📜 I’m currently working on `MERN Stack`
-#### 👯 And I'm looking to collaborate on Web Projects
-#### 💬 I'd love to talk about `psychology` and `livestyle`
+#### 📜 I’m currently the `Google DSC Lead of KIT` and `Microsoft Learn Student Ambassador`
+#### 👯 And I'm looking to collaborate on `Open Source`
+#### 💬 I'd love to talk about `technology` and `livestyle`
 #### 📝 Favourite Quote : `Either I could watch it happen or be a part of it!`
 #### ⚡ Belief : `There are only 10 people in the world, those who know binary and those who don't`
 #### 📫 Reach me at ping@shravanatirtha.com 
