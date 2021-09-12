@@ -1,8 +1,16 @@
 
 ### Hey Dev! I'm glad that you visited me 😄
-![Shravana's GitHub stats](https://github-readme-stats.vercel.app/api?username=shravanatirtha&theme=onedark&show_icons=true) <br>
 <div align="center">
+ <a href="https://github.com/shravanatirtha">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shravanatirtha&theme=darcula&show_icons=true" />
+</a>
+<a href="https://github.com/shravanatirtha">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shravanatirtha&theme=darcula" />
+</a>
+<br>
+ 
  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;My Zone
+ <br>
 <p align="left">
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code> 
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg"> </code>
@@ -12,12 +20,18 @@
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"> </code> 
-  <p>
+ <code> <img height="50" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"> </code> 
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"> </code> 
+  </p>
  </div> 
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shravanatirtha&langs_count=6)](https://github.com/shravanatirtha/)
-<!--[![shravana's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=shravanatirtha)](https://github.com/shravanatirtha)-->
+ <div align="center">
+<a href="https://github.com/shravanatirtha">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravanatirtha&langs_count=6)" />
+</a>
+<a href="https://github.com/shravanatirtha">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=shravanatirtha" />
+</a>
+ </div> 
 
 ### Facts about me:<br>
 👧 She/Her<br>
