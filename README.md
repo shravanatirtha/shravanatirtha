@@ -2,7 +2,8 @@
 ### Hey Dev! I'm glad that you visited me 😄
 <div align="center">
  <a href="https://github.com/shravanatirtha">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shravanatirtha&theme=darcula&show_icons=true" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shravanatirtha&theme=darcula&show_icons=true&count_private=true&count_private_pr=true")
+" />
 </a>
 <a href="https://github.com/shravanatirtha">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shravanatirtha&theme=darcula" />
@@ -26,11 +27,13 @@
  </div> 
  <div align="center">
 <a href="https://github.com/shravanatirtha">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravanatirtha&langs_count=6)" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravanatirtha&langs_count=6" />
 </a>
+                  <!--      <a href="https://github.com/shravanatirtha"><img width="500px" height="500px" src="https://wakatime.com/share/@shravanatirtha/9f5ab2eb-5e37-4116-bc9e-3812f4da1af1.png" /></a>-->
 <a href="https://github.com/shravanatirtha">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=shravanatirtha" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=BekiGonzalez" />
 </a>
+                                                                                                     
  </div> 
 
 ### Facts about me:<br>
