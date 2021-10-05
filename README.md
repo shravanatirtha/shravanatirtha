@@ -31,7 +31,7 @@
 </a>
                   <!--      <a href="https://github.com/shravanatirtha"><img width="500px" height="500px" src="https://wakatime.com/share/@shravanatirtha/9f5ab2eb-5e37-4116-bc9e-3812f4da1af1.png" /></a>-->
 <a href="https://github.com/shravanatirtha">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=BekiGonzalez" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=shravanatirtha" />
 </a>
                                                                                                      
  </div> 
