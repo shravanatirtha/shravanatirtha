@@ -1,5 +1,3 @@
-
-### Hey Dev! I'm glad that you visited me 😄
 <div align="center">
  <a href="https://github.com/shravanatirtha">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=shravanatirtha&theme=darcula&show_icons=true&count_private=true&count_private_pr=true")
