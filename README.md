@@ -33,7 +33,7 @@
                                                                                                      
  </div> 
 
-### Facts about me:<br>
+<!--### Facts about me:<br>
 👧 She/Her<br>
 🍚 Vegan Geek<br>
 💻 Java Programmer<br>
@@ -44,8 +44,8 @@
 💬 Grab coffee and let's talk about technology and livestyle<br>
 📝 Favourite Quote : Either I could watch it happen or be a part of it!<br>
 ⚡ Belief : There are only 10 people in the world, those who know binary and those who don't<br>
-📫 Reach me at shravanatirtha@gmail.com<br>
-
+📫 Reach me at shravanatirtha@gmail.com<br>-->
+### From One Day to Day One :heart:
 <div align="center">
 <a href="https://www.linkedin.com/in/shravanatirtha" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/shravana.tirtha" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
