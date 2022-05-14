@@ -12,15 +12,14 @@
  
  <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;My Zone
  <br>
-<p align="left">
+<p align="justify">
+   <code> <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
+   <code> <img height="50" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"> </code> 
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code> 
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
  <code> <img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"> </code>
-   <code> <img height="50" src="https://www.vectorlogo.zone/logos/golang/golang-horizontal.svg"> </code>     
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/firebase/firebase-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"> </code> 
- <code> <img height="50" src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-ar21.svg"> </code> 
+ <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
+ <code> <img height="50" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-ar21.svg"> </code>
+  <code> <img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/linux/linux-ar21.svg"> </code> 
   </p>
  </div> 
@@ -31,7 +30,7 @@
 </a>-->
                   <!--      <a href="https://github.com/shravanatirtha"><img width="500px" height="500px" src="https://wakatime.com/share/@shravanatirtha/9f5ab2eb-5e37-4116-bc9e-3812f4da1af1.png" /></a>-->
 <a href="https://github.com/shravanatirtha">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=shravanatirtha" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=shravanatirtha&theme=slateorange" />
 </a>
                                                                                                      
  </div> 
