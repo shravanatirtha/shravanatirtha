@@ -2,11 +2,11 @@
 <br />
 <div align="center">
  <a href="https://github.com/shravanatirtha">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shravanatirtha&theme=darcula&show_icons=true&count_private=true&count_private_pr=true")
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shravanatirtha&theme=slateorange&show_icons=true&count_private=true&count_private_pr=true")
 " />
 </a>
 <a href="https://github.com/shravanatirtha">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shravanatirtha&theme=darcula" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shravanatirtha&theme=slateorange" />
 </a>
 <br>
  
