@@ -9,8 +9,7 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shravanatirtha&theme=blueberry" />
 </a>
 <br>
- 
- <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;My Zone
+
  <br>
 <p align="justify">
    <code> <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
