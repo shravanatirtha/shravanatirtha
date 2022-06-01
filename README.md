@@ -9,7 +9,6 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shravanatirtha&theme=blueberry" />
 </a>
 <br>
-
  <br>
 <p align="justify">
    <code> <img height="50" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg"> </code>
