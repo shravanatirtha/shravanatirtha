@@ -1,4 +1,4 @@
-### From one day to day one! :rocket:
+### From one day to day one :rocket:
 <br />
 <div align="center">
  <a href="https://github.com/shravanatirtha">
