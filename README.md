@@ -12,11 +12,12 @@
  <br>
 <p align="justify">
    
-   <code> <img height="50" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"> </code> 
+<!--    <code> <img height="50" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"> </code>  -->
+   <code> <img height="50" src="https://www.vectorlogo.zone/logos/emberjs/emberjs-ar21.svg"> </code>                                                                                                
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code> 
  <code> <img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"> </code>
  <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
-  <code> <img height="50" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg"> </code>
+<!--   <code> <img height="50" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg"> </code> -->
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"> </code>
   </p>
  </div> 
