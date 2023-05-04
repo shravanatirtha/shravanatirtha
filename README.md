@@ -2,7 +2,7 @@
 <br />
 <div align="center">
  <a href="https://github.com/shravanatirtha">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shravanatirtha&theme=blueberry&show_icons=true&count_private=true&count_private_pr=true&count_public_pr=true")
+  <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=shravanatirtha&theme=olive&show_icons=true&count_private=true&count_private_pr=true&count_public_pr=true")
 " />
 </a>
 <a href="https://github.com/shravanatirtha">
