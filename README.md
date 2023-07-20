@@ -28,7 +28,6 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=shravanatirtha&theme=algolia" />
 </a>
  </div>                                                                               
-
 ### Facts about me:<br>
 👧 She/Her<br>
 💻 Java Programmer<br>
