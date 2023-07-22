@@ -1,4 +1,5 @@
 ### From one day to day one :rocket:
+
 <br />
 <div align="center">
  <a href="https://github.com/shravanatirtha">
@@ -11,19 +12,14 @@
 <br>
  <br>
 <p align="justify">
-<!--    <code> <img height="50" src="https://www.vectorlogo.zone/logos/springio/springio-ar21.svg"> </code>  -->
-<!--     <code> <img height="50" src="https://www.vectorlogo.zone/logos/emberjs/emberjs-ar21.svg"> </code>  -->
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code> 
  <code> <img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"> </code>
- <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code><!--   <code> <img height="50" src="https://www.vectorlogo.zone/logos/elastic/elastic-ar21.svg"> </code> -->
+ <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"> </code>
   </p>
  </div> 
  <div align="center">
-                    <!--
-<a href="https://github.com/shravanatirtha">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravanatirtha&langs_count=4" />
-</a>-->    <a href="https://github.com/shravanatirtha"><img width="500px" height="500px" src="https://wakatime.com/share/@shravanatirtha/9f5ab2eb-5e37-4116-bc9e-3812f4da1af1.png" /></a>
+   <a href="https://github.com/shravanatirtha"><img width="500px" height="500px" src="https://wakatime.com/share/@shravanatirtha/9f5ab2eb-5e37-4116-bc9e-3812f4da1af1.png" /></a>
  <a href="https://github.com/shravanatirtha">
   <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=shravanatirtha&theme=algolia" />
 </a>
