@@ -5,7 +5,7 @@
 " />
 </a>
 <a href="https://github.com/shravanatirtha">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shravanatirtha&theme=synthwave" />
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shravanatirtha&theme=merko" />
 </a>
 <br>
  <br>
