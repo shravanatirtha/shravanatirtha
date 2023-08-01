@@ -1,7 +1,7 @@
 ### From one day to day one :rocket:
 <div align="center">
  <a href="https://github.com/shravanatirtha">
-  <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=shravanatirtha&theme=gruvbox&show_icons=true&count_private=true&count_private_pr=true&count_public_pr=true")
+  <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=shravanatirtha&theme=gruvbox&show_icons=true&count_private=true&count_private_pr=true&count_public_pr=true&show_owner=true")
 " />
 </a>
 <a href="https://github.com/shravanatirtha">
@@ -17,9 +17,9 @@
   </p>
  </div> 
  <div align="center">
-   <a href="https://github.com/shravanatirtha"><img width="500px" height="500px" src="https://wakatime.com/share/@shravanatirtha/9f5ab2eb-5e37-4116-bc9e-3812f4da1af1.png" /></a>
+<!--    <a href="https://github.com/shravanatirtha"><img width="500px" height="500px" src="https://wakatime.com/share/@shravanatirtha/9f5ab2eb-5e37-4116-bc9e-3812f4da1af1.png" /></a> -->
  <a href="https://github.com/shravanatirtha">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=shravanatirtha&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=shravanatirtha&theme=gruvbox" />
 </a>
  </div>   
  </div>
