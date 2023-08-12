@@ -7,8 +7,8 @@
 <a href="https://github.com/shravanatirtha">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shravanatirtha&theme=merko" />
 </a>
-<br>
- <br>
+<br/>
+<br/>
 <p align="justify">
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/java/java-ar21.svg"> </code> 
  <code> <img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"> </code>
@@ -35,7 +35,7 @@
 📝 Favourite Quote : Either I could watch it happen or be a part of it!<br>
 ⚡ Belief : There are only 10 people in the world, those who know binary and those who don't<br>
 📫 Reach me at shravanatirtha@gmail.com <br>
-<br />
+<br/>
 <div align="center">
 <a href="https://www.linkedin.com/in/shravanatirtha" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="https://www.instagram.com/shravlogy" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
