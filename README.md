@@ -33,7 +33,7 @@
 ❤️ Food & Code<br>
 📝 Favourite Quote : Either I could watch it happen or be a part of it!<br>
 ⚡ Belief : There are only 10 people in the world, those who know binary and those who don't<br>
-📫 Reach me at shravanatirtha@gmail.com <br>
+📫 Reach me at shravanatirtha@gmail.com <br/>
 <br/>
 <div align="center">
 <a href="https://www.linkedin.com/in/shravanatirtha" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
