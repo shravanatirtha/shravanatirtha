@@ -14,7 +14,7 @@
  <code> <img height="50" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"> </code>
  <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-ar21.svg"> </code>
-  </p>
+ </p>
  <a href="https://github.com/shravanatirtha">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravanatirtha&langs_count=8&theme=gruvbox" />
 </a>
