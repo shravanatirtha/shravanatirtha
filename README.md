@@ -4,7 +4,7 @@
   <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=shravanatirtha&theme=gruvbox&show_icons=true&count_private=true&count_private_pr=true&count_public_pr=true&show_owner=true" />
 </a>
 <a href="https://github.com/shravanatirtha">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shravanatirtha&theme=merko" />
+ <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shravanatirtha&theme=merko" />
 </a>
 <br/>
 <br/>
