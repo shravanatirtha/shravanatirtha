@@ -27,11 +27,11 @@
 <br/>
 👧 She/Her<br/>
 💻 Java Programmer<br/>
-🔄 Routine : Eat - Sleep - Code - Repeat<br/>
+🔄 Routine: Eat - Sleep - Code - Repeat<br/>
 😆 Fun fact: I CODE<br/>
 ❤️ Food & Code<br/>
-📝 Favourite Quote : Either I could watch it happen or be a part of it!<br/>
-⚡ Belief : There are only 10 people in the world, those who know binary and those who don't<br/>
+📝 Favourite Quote: Either I could watch it happen or be a part of it!<br/>
+⚡ Belief: There are only 10 people in the world, those who know binary and those who don't<br/>
 📫 Reach me at shravanatirtha@gmail.com <br/>
 <br/>
 <div align="center">
