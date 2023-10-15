@@ -29,7 +29,7 @@
 👧 She/Her<br/>
 💻 Java Programmer<br/>
 🔄 Routine: Eat - Sleep - Code - Repeat<br/>
-😆 Fun fact: I CODE<br/>
+😎 Sigma <br/>
 ❤️ Food & Code<br/>
 📝 Favourite Quote: Either I could watch it happen or be a part of it!<br/>
 ⚡ Belief: There are only 10 people in the world, those who know binary and those who don't<br/>
