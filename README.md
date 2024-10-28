@@ -6,7 +6,7 @@
 <br/>
 <div align="center">
 <p align="center"> 
-   Visitor count since 28 Oct, 2024<br>
+   Visitor count <br> since 28 Oct, 2024<br>
   <img src="https://profile-counter.glitch.me/shravanatirtha/count.svg" />
 </p>
  
