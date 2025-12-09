@@ -1,32 +1,17 @@
-### There are only 10 people in the world, those who know binary and those who don't. 
+### There are only 10 people in the world, those who know binary and those who don't.
+
 <br/>
 💻 Software Engineer<br/>
 💪 Gym <br/>
 📫 shravanatirtha@gmail.com <br/>
 <br/>
 <div align="center">
-<p align="center"> 
-   Visitor count <br> since 28 Oct, 2024<br>
-  <img src="https://profile-counter.glitch.me/shravanatirtha/count.svg" />
-</p>
- 
  <a href="https://github.com/shravanatirtha">
  <img align="center" src="https://github-readme-stats-ten-gilt.vercel.app/api?username=shravanatirtha&theme=gruvbox&show_icons=true&count_private=true&count_private_pr=true&count_public_pr=true&show_owner=true" />
 </a>
-<a href="https://github.com/shravanatirtha">
- <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=shravanatirtha&theme=merko" />
-</a>
 <br/>
 <br/>
-<!--  <a href="https://github.com/shravanatirtha">
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shravanatirtha&langs_count=8&theme=gruvbox" />
-</a> -->
- </div> 
- <div align="center">
- <a href="https://github.com/shravanatirtha">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=shravanatirtha&theme=gruvbox" />
-</a>
- </div>   
+ </div>
  </div>
 
 <div align="center">
